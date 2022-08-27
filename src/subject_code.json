@@ -1,0 +1,915 @@
+[
+    {
+      "code": "66713",
+      "subject": "Electrical Engineering Materials"
+    },
+    {
+      "code": "66721",
+      "subject": "Electrical Circuits‐1"
+    },
+    {
+      "code": "66722",
+      "subject": "Electrical Appliances"
+    },
+    {
+      "code": "66731",
+      "subject": "Electrical Circuits ‐2"
+    },
+    {
+      "code": "66732",
+      "subject": "Advanced Electricity"
+    },
+    {
+      "code": "66733",
+      "subject": "Electrical Engineering Drawing"
+    },
+    {
+      "code": "66741",
+      "subject": "Electrical Installation Planning and Estimating"
+    },
+    {
+      "code": "66742",
+      "subject": "DC Machines"
+    },
+    {
+      "code": "67045",
+      "subject": "Applied Mechanics"
+    },
+    {
+      "code": "66751",
+      "subject": "Electrical  Electronic Measurement‐1"
+    },
+    {
+      "code": "66752",
+      "subject": "Generation of Electrical Power"
+    },
+    {
+      "code": "66753",
+      "subject": "Renewable Energy"
+    },
+    {
+      "code": "66856",
+      "subject": "Digital Electronics  Microprocessor"
+    },
+    {
+      "code": "66761",
+      "subject": "Alternating Current Machines‐1"
+    },
+    {
+      "code": "66762",
+      "subject": "Electrical  Electronic Measurement‐2"
+    },
+    {
+      "code": "66763",
+      "subject": "Transmission and Distribution of Electrical Power‐1"
+    },
+    {
+      "code": "66867",
+      "subject": "Communication Engineering"
+    },
+    {
+      "code": "66868",
+      "subject": "Micro Controller  PLC"
+    },
+    {
+      "code": "66771",
+      "subject": "Alternating Current Machines‐2"
+    },
+    {
+      "code": "66772",
+      "subject": "Electrical Engineering project"
+    },
+    {
+      "code": "66774",
+      "subject": "Transmission and Distribution of Electrical Power‐2"
+    },
+    {
+      "code": "66775",
+      "subject": "Testing and Maintenance of Electrical Equipment"
+    },
+    {
+      "code": "67012",
+      "subject": "Workshop practice"
+    },
+    {
+      "code": "66421",
+      "subject": "Civil engineering materials"
+    },
+    {
+      "code": "66431",
+      "subject": "Civil engineering drawing‐1"
+    },
+    {
+      "code": "66433",
+      "subject": "Construction process‐1"
+    },
+    {
+      "code": "66432",
+      "subject": "Surveying‐1"
+    },
+    {
+      "code": "66434",
+      "subject": "Civil workshop practice"
+    },
+    {
+      "code": "66441",
+      "subject": "Structural mechanics"
+    },
+    {
+      "code": "66444",
+      "subject": "Surveying‐2"
+    },
+    {
+      "code": "66442",
+      "subject": "Estimating  costing‐1"
+    },
+    {
+      "code": "66445",
+      "subject": "Geotechnical engineering"
+    },
+    {
+      "code": "66443",
+      "subject": "Civil engineering drawing‐2 (CAD)"
+    },
+    {
+      "code": "66451",
+      "subject": "Construction process‐2"
+    },
+    {
+      "code": "66454",
+      "subject": "Theory of structure"
+    },
+    {
+      "code": "66452",
+      "subject": "Surveying‐3"
+    },
+    {
+      "code": "66456",
+      "subject": "Hydraulics"
+    },
+    {
+      "code": "66453",
+      "subject": "Water supply engineering"
+    },
+    {
+      "code": "66455",
+      "subject": "Estimating  costing‐2"
+    },
+    {
+      "code": "66461",
+      "subject": "Advance surveying"
+    },
+    {
+      "code": "66463",
+      "subject": "Design of structure‐1"
+    },
+    {
+      "code": "66462",
+      "subject": "Transportation engineering‐1"
+    },
+    {
+      "code": "66465",
+      "subject": "Foundation engineering"
+    },
+    {
+      "code": "66464",
+      "subject": "Civil engineering drawing‐3 (CAD)"
+    },
+    {
+      "code": "66466",
+      "subject": "Civil engineering software"
+    },
+    {
+      "code": "68873",
+      "subject": "Construction management  documentation"
+    },
+    {
+      "code": "66473",
+      "subject": "Transportation engineering‐2"
+    },
+    {
+      "code": "66472",
+      "subject": "Sanitary engineering"
+    },
+    {
+      "code": "66475",
+      "subject": "Water resources engineering"
+    },
+    {
+      "code": "66474",
+      "subject": "Design of structure-2"
+    },
+    {
+      "code": "66476",
+      "subject": "Civil engineering project"
+    },
+    {
+      "code": "66621",
+      "subject": "Database Application"
+    },
+    {
+      "code": "66622",
+      "subject": "IT support System-I"
+    },
+    {
+      "code": "66623",
+      "subject": "Graphics Design-I"
+    },
+    {
+      "code": "66823",
+      "subject": "Analog Electronics"
+    },
+    {
+      "code": "66632",
+      "subject": "Web Design"
+    },
+    {
+      "code": "66633",
+      "subject": "Graphics design‐II"
+    },
+    {
+      "code": "66634",
+      "subject": "IT support System‐II"
+    },
+    {
+      "code": "66641",
+      "subject": "Object-Oriented Programming"
+    },
+    {
+      "code": "66643",
+      "subject": "Web Development"
+    },
+    {
+      "code": "66642",
+      "subject": "Data Structure  Algorithm"
+    },
+    {
+      "code": "66645",
+      "subject": "Computer Peripherals"
+    },
+    {
+      "code": "66644",
+      "subject": "Data Communication System"
+    },
+    {
+      "code": "66651",
+      "subject": "Programming in Java"
+    },
+    {
+      "code": "66653",
+      "subject": "Surveillance Security System"
+    },
+    {
+      "code": "66654",
+      "subject": "Web Development Project"
+    },
+    {
+      "code": "66652",
+      "subject": "Operating Systems application"
+    },
+    {
+      "code": "66656",
+      "subject": "PCB Design and Circuit Making"
+    },
+    {
+      "code": "66655",
+      "subject": "Sequential Logic System"
+    },
+    {
+      "code": "66661",
+      "subject": "Principals of Software Engineering"
+    },
+    {
+      "code": "66669",
+      "subject": "Programming in advanced java"
+    },
+    {
+      "code": "66665",
+      "subject": "Network and data center operation"
+    },
+    {
+      "code": "66666",
+      "subject": "Embedded system design"
+    },
+    {
+      "code": "66667",
+      "subject": "Web mastering"
+    },
+    {
+      "code": "66668",
+      "subject": "computer graphics and animation design"
+    },
+    {
+      "code": "66663",
+      "subject": "Microcontroller Application"
+    },
+    {
+      "code": "6666X",
+      "subject": "Optional Subject"
+    },
+    {
+      "code": "66664",
+      "subject": "Database Management System"
+    },
+    {
+      "code": "64054",
+      "subject": "Environmental Studies"
+    },
+    {
+      "code": "66671",
+      "subject": "System Analysis  Design"
+    },
+    {
+      "code": "66674",
+      "subject": "E‐Commerce  CMS"
+    },
+    {
+      "code": "66672",
+      "subject": "Network Administration  Services"
+    },
+    {
+      "code": "66675",
+      "subject": "Cyber Security  Ethics"
+    },
+    {
+      "code": "66676",
+      "subject": "Network security system"
+    },
+    {
+      "code": "66677",
+      "subject": "Embedded system design"
+    },
+    {
+      "code": "66678",
+      "subject": "Advanced database management system"
+    },
+    {
+      "code": "66679",
+      "subject": "Game development"
+    },
+    {
+      "code": "66673",
+      "subject": "Apps Development Project"
+    },
+    {
+      "code": "6667X",
+      "subject": "Optional Subject‐II"
+    },
+    {
+      "code": "66821",
+      "subject": "Electronic Devices and Circuits"
+    },
+    {
+      "code": "66831",
+      "subject": "Advanced Electronic Devices and Circuits"
+    },
+    {
+      "code": "66832",
+      "subject": "PCB Design and Prototyping"
+    },
+    {
+      "code": "66833",
+      "subject": "Electronic Appliances"
+    },
+    {
+      "code": "66835",
+      "subject": "Basic Communication Engineering"
+    },
+    {
+      "code": "66842",
+      "subject": "Principles of Digital Electronics"
+    },
+    {
+      "code": "66845",
+      "subject": "Industrial Electronics"
+    },
+    {
+      "code": "66841",
+      "subject": "Networks Filters and Transmission Lines"
+    },
+    {
+      "code": "66844",
+      "subject": "Electronic Servicing‐1"
+    },
+    {
+      "code": "66851",
+      "subject": "Television  Radio Engineering"
+    },
+    {
+      "code": "66852",
+      "subject": "Electronic Measuring Instruments"
+    },
+    {
+      "code": "66853",
+      "subject": "Advanced Communication Engineering"
+    },
+    {
+      "code": "66854",
+      "subject": "Advanced Digital Electronics"
+    },
+    {
+      "code": "66855",
+      "subject": "Electronic Servicing‐2"
+    },
+    {
+      "code": "66861",
+      "subject": "Electronic Measurements"
+    },
+    {
+      "code": "66862",
+      "subject": "TV Broadcasting and Studio"
+    },
+    {
+      "code": "66863",
+      "subject": "Instrumentation  Process Control"
+    },
+    {
+      "code": "66662",
+      "subject": "Microprocessor and Interfacing"
+    },
+    {
+      "code": "66864",
+      "subject": "Microcontroller  embedded system"
+    },
+    {
+      "code": "66865",
+      "subject": "Electronic Project"
+    },
+    {
+      "code": "66871",
+      "subject": "Computer Control  Robotics"
+    },
+    {
+      "code": "66872",
+      "subject": "Microwave Radar  Navigation Aids"
+    },
+    {
+      "code": "66873",
+      "subject": "Bio‐Medical Instrument"
+    },
+    {
+      "code": "66874",
+      "subject": "Industrial Automation  PLC"
+    },
+    {
+      "code": "66875",
+      "subject": "Project‐2"
+    },
+    {
+      "code": "67013",
+      "subject": "Mechanical Engineering Materials"
+    },
+    {
+      "code": "67021",
+      "subject": "Advanced Mechanical Engineering Drawing"
+    },
+    {
+      "code": "67022",
+      "subject": "Machine Shop Practice‐1"
+    },
+    {
+      "code": "67023",
+      "subject": "Mechanical Workshop Practice"
+    },
+    {
+      "code": "67031",
+      "subject": "Machine Shop Practice‐2"
+    },
+    {
+      "code": "67032",
+      "subject": "Foundry  Pattern Making"
+    },
+    {
+      "code": "67043",
+      "subject": "Machine Shop Practice‐3"
+    },
+    {
+      "code": "66631",
+      "subject": "Programming Essentials"
+    },
+    {
+      "code": "67051",
+      "subject": "Hydraulics  Hydraulic Machineries"
+    },
+    {
+      "code": "67052",
+      "subject": "Mechanical Estimating Costing"
+    },
+    {
+      "code": "67053",
+      "subject": "Advance Welding‐1"
+    },
+    {
+      "code": "67055",
+      "subject": "Manufacturing Process"
+    },
+    {
+      "code": "67061",
+      "subject": "Thermodynamics  Heat Engine"
+    },
+    {
+      "code": "67062",
+      "subject": "Mechanical Measurement  Metrology"
+    },
+    {
+      "code": "67063",
+      "subject": "Plant Engineering"
+    },
+    {
+      "code": "67065",
+      "subject": "Advance Welding‐2"
+    },
+    {
+      "code": "67071",
+      "subject": "Design of Machine Elements"
+    },
+    {
+      "code": "67072",
+      "subject": "Tool Design"
+    },
+    {
+      "code": "67073",
+      "subject": "Heat Treatment of Metal"
+    },
+    {
+      "code": "67074",
+      "subject": "Mechanical Engineering Project"
+    },
+    {
+      "code": "67075",
+      "subject": "Production Planning  Control"
+    },
+    {
+      "code": "67076",
+      "subject": "Mechatronics  PLC"
+    },
+    {
+      "code": "67111",
+      "subject": "Power Engineering Fundamentals"
+    },
+    {
+      "code": "67121",
+      "subject": "Workshop Safety  Management"
+    },
+    {
+      "code": "67141",
+      "subject": "Engine Details"
+    },
+    {
+      "code": "67142",
+      "subject": "Automotive Suspension Brake Steering  Transmission system"
+    },
+    {
+      "code": "67143",
+      "subject": "Fuels  Lubricants"
+    },
+    {
+      "code": "66743",
+      "subject": "Electrical Circuits  Machine"
+    },
+    {
+      "code": "67152",
+      "subject": "Boiler operation and maintenance"
+    },
+    {
+      "code": "66271",
+      "subject": "Service Station Operation  Estimating"
+    },
+    {
+      "code": "67153",
+      "subject": "Engine Overhauling and Inspection"
+    },
+    {
+      "code": "67161",
+      "subject": "Engine Testing  Performance"
+    },
+    {
+      "code": "66274",
+      "subject": "Vehicle Automation  Signaling"
+    },
+    {
+      "code": "66241",
+      "subject": "Automotive Body Building"
+    },
+    {
+      "code": "66764",
+      "subject": "Transmission  Distribution of Electrical Power"
+    },
+    {
+      "code": "67171",
+      "subject": "Auto Electricity  Electronic"
+    },
+    {
+      "code": "67172",
+      "subject": "Automobile Trouble Shooting  Driving"
+    },
+    {
+      "code": "67173",
+      "subject": "Power Engineering Project"
+    },
+    {
+      "code": "66253",
+      "subject": "Automobile Air‐conditioning"
+    },
+    {
+      "code": "66773",
+      "subject": "Switch Gear  Protection"
+    },
+    {
+      "code": "67211",
+      "subject": "Refrigeration and Air Conditioning Fundamentals"
+    },
+    {
+      "code": "66712",
+      "subject": "Electrical Engineering Fundamentals"
+    },
+    {
+      "code": "67221",
+      "subject": "Refrigeration Engineering Drawing"
+    },
+    {
+      "code": "67231",
+      "subject": "Refrigeration cycles and Components"
+    },
+    {
+      "code": "66822",
+      "subject": "Electronic Engineering Fundamentals"
+    },
+    {
+      "code": "67241",
+      "subject": "Domestic Refrigeration and Air Conditioning"
+    },
+    {
+      "code": "67242",
+      "subject": "Automotive Engines and their Systems"
+    },
+    {
+      "code": "67243",
+      "subject": "Cooling and Heating Load Calculation"
+    },
+    {
+      "code": "67244",
+      "subject": "Maintenance of RAC Equipment"
+    },
+    {
+      "code": "67251",
+      "subject": "Electrical Machines in RAC"
+    },
+    {
+      "code": "67252",
+      "subject": "RAC Circuits and controls"
+    },
+    {
+      "code": "67253",
+      "subject": "Piping and Duct Works"
+    },
+    {
+      "code": "67254",
+      "subject": "Commercial and Industrial Refrigeration"
+    },
+    {
+      "code": "67151",
+      "subject": "Power Plant Engineering"
+    },
+    {
+      "code": "67131",
+      "subject": "Engineering Thermodynamics"
+    },
+    {
+      "code": "67261",
+      "subject": "Advanced Refrigeration and Air conditioning"
+    },
+    {
+      "code": "67262",
+      "subject": "RAC Plants for Food Processing  Preservation"
+    },
+    {
+      "code": "67263",
+      "subject": "RAC Plant Operation"
+    },
+    {
+      "code": "67264",
+      "subject": "Low-Temperature Refrigeration"
+    },
+    {
+      "code": "67162",
+      "subject": "Fluid Mechanics and machinery"
+    },
+    {
+      "code": "67271",
+      "subject": "RAC System Analysis"
+    },
+    {
+      "code": "67272",
+      "subject": "RAC Project"
+    },
+    {
+      "code": "67273",
+      "subject": "Troubleshooting  repairing of RAC Equipment"
+    },
+    {
+      "code": "67274",
+      "subject": "Transport Refrigeration And Air conditioning"
+    },
+    {
+      "code": "67275",
+      "subject": "Commercial and Industrial Air conditioning"
+    },
+    {
+      "code": "67276",
+      "subject": "Installation of RAC Plants"
+    },
+    {
+      "code": "67911",
+      "subject": "IC Engine Principle"
+    },
+    {
+      "code": "67011",
+      "subject": "Basic Workshop Practice"
+    },
+    {
+      "code": "66711",
+      "subject": "Basic Electricity"
+    },
+    {
+      "code": "65911",
+      "subject": "Mathematics‐1"
+    },
+    {
+      "code": "65913",
+      "subject": "Chemistry"
+    },
+    {
+      "code": "65811",
+      "subject": "Social Science"
+    },
+    {
+      "code": "65812",
+      "subject": "Physical Education  Life Skill Development"
+    },
+    {
+      "code": "67921",
+      "subject": "Diesel Engine Operation and maintenance"
+    },
+    {
+      "code": "67922",
+      "subject": "Marine Engineering Materials"
+    },
+    {
+      "code": "61011",
+      "subject": "Engineering Drawing"
+    },
+    {
+      "code": "65912",
+      "subject": "Physics‐1"
+    },
+    {
+      "code": "65921",
+      "subject": "Mathematics‐2"
+    },
+    {
+      "code": "65711",
+      "subject": "Bangla"
+    },
+    {
+      "code": "65712",
+      "subject": "English"
+    },
+    {
+      "code": "67931",
+      "subject": "Fuels  Fuel Injection System"
+    },
+    {
+      "code": "67033",
+      "subject": "Machine Shop Practice"
+    },
+    {
+      "code": "66811",
+      "subject": "Basic Electronics"
+    },
+    {
+      "code": "66611",
+      "subject": "Computer Application"
+    },
+    {
+      "code": "65931",
+      "subject": "Mathematics‐3"
+    },
+    {
+      "code": "65922",
+      "subject": "Physics‐2"
+    },
+    {
+      "code": "65722",
+      "subject": "Communicative English"
+    },
+    {
+      "code": "67941",
+      "subject": "Diesel Engine Overhauling  Record Keeping"
+    },
+    {
+      "code": "68032",
+      "subject": "Welding"
+    },
+    {
+      "code": "67044",
+      "subject": "Marine Mechanical Drawing"
+    },
+    {
+      "code": "67042",
+      "subject": "Metallurgy"
+    },
+    {
+      "code": "67952",
+      "subject": "Engineering Thermodynamics and Heat Transfer"
+    },
+    {
+      "code": "65841",
+      "subject": "Business Organization  Communication"
+    },
+    {
+      "code": "67041",
+      "subject": "Engineering Mechanics"
+    },
+    {
+      "code": "67951",
+      "subject": "Marine Engines  Construction"
+    },
+    {
+      "code": "69054",
+      "subject": "Environmental Studies"
+    },
+    {
+      "code": "67056",
+      "subject": "Advanced Machine Shop"
+    },
+    {
+      "code": "67054",
+      "subject": "CAD  CAM"
+    },
+    {
+      "code": "67955",
+      "subject": "Instrumentation Control"
+    },
+    {
+      "code": "65851",
+      "subject": "Accounting Theory and Practice"
+    },
+    {
+      "code": "67064",
+      "subject": "Strength of Materials"
+    },
+    {
+      "code": "68053",
+      "subject": "Marine Refrigeration  Air Conditioning"
+    },
+    {
+      "code": "67961",
+      "subject": "Ship Safety  Fire Fighting"
+    },
+    {
+      "code": "67962",
+      "subject": "Marine Auxiliary System  Hydraulic Machinery"
+    },
+    {
+      "code": "68021",
+      "subject": "Naval Architecture"
+    },
+    {
+      "code": "67977",
+      "subject": "Maritime laws"
+    },
+    {
+      "code": "65852",
+      "subject": "Industrial Management"
+    },
+    
+    {
+      "code": "67971",
+      "subject": "Engine Testing  Installation"
+    },
+    {
+      "code": "67972",
+      "subject": "Ship Propulsion System"
+    },
+    {
+      "code": "67973",
+      "subject": "Marine Steam Power  Gas Turbine"
+    },
+    {
+      "code": "67974",
+      "subject": "Ship Construction and Fittings"
+    },
+    {
+      "code": "67963",
+      "subject": "Mechanical  Marine Estimating"
+    },
+    {
+      "code": "67976",
+      "subject": "Marine Electrical Electronic system"
+    },
+    {
+      "code": "65853",
+      "subject": "Innovation Entrepreneurship"
+    }
+  ]
