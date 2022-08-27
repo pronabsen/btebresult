@@ -32,7 +32,7 @@ function FileUpload() {
         );
 
         axios
-          .post("http://localhost:4000/file_ready", formData)
+          .post("https://btebtest.vercel.app/file_ready", formData)
           .then((res) => {
             console.log(res);
           })
@@ -53,7 +53,7 @@ function FileUpload() {
       let progress;
 
       axios
-        .post("http://localhost:4000/upload", {
+        .post("https://btebtest.vercel.app/upload", {
           file: JSON.parse(localStorage.getItem("file")),
           year,
           semester,
@@ -80,7 +80,7 @@ function FileUpload() {
         });
 
       axios
-        .post("http://localhost:4000/total_result", {
+        .post("https://btebtest.vercel.app/total_result", {
           file: JSON.parse(localStorage.getItem("file")),
         })
         .then((res) => {
