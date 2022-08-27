@@ -3,7 +3,7 @@ import React, { useState } from "react";
 
 const Count = () => {
   const [count, setCount] = useState();
-  axios.get("http://localhost:4000/get_total_search_count").then((res) => {
+  axios.get("https://btebtest.vercel.app/get_total_search_count").then((res) => {
     setCount(res.data.totalSearch);
   });
   return (
