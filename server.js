@@ -12,7 +12,7 @@ const Count = require("./model/count.model");
 const app = express();
 
 app.use(express.json());
-app.use(cors({ origin: "http://localhost:3000", credentials: true }));
+app.use(cors({ origin: "https://btebtest.vercel.app", credentials: true }));
 app.use(fileUpload());
 
 mongoose
