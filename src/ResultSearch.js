@@ -15,7 +15,7 @@ const ResultSearch = ({ setResultData, setResultNotFound }) => {
 
       axios
         .post(
-          `http://localhost:4000/get_result/${year}/${semester}/${roll}`,
+          `https://btebtest.vercel.app/get_result/${year}/${semester}/${roll}`,
           {}
         )
         .then((res) => {
