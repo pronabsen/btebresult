@@ -7,6 +7,8 @@ const resultSchema = mongoose.Schema({
   semester: { type: Number, required: true },
   grade: { type: String },
   failedSubject: { type: String },
+  exam_type: { type: String },
+  regulation: { type: String },
 });
 
-module.exports = Result = mongoose.model("Result", resultSchema);
+module.exports = Results = mongoose.model("Results", resultSchema);
